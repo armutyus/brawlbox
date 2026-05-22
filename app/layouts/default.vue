@@ -64,7 +64,7 @@
     </main>
 
     <!-- Footer with credit -->
-    <footer class="w-full text-center mt-8 z-10 space-y-2">
+    <footer class="w-full text-center mt-8 z-10 space-y-2 px-4">
       <p class="text-xs text-purple-400 font-bold uppercase tracking-widest">★ MADE FOR BRAWLERS ★</p>
       <a 
         href="https://x.com/armutyus" 
@@ -79,6 +79,10 @@
           @armutyus
         </span>
       </a>
+      <p class="text-[9px] text-purple-500/50 leading-relaxed max-w-md mx-auto mt-3">
+        This material is unofficial and is not endorsed by Supercell. For more information see
+        <a href="https://www.supercell.com/en/fan-content-policy/" target="_blank" rel="noopener noreferrer" class="underline hover:text-purple-400 transition-colors">Supercell's Fan Content Policy</a>.
+      </p>
     </footer>
   </div>
 </template>
